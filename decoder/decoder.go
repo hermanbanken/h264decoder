@@ -6,7 +6,7 @@ import (
 	"github.com/ailumiyana/goav-incr/goav/avcodec"
 	"github.com/ailumiyana/goav-incr/goav/avutil"
 	"github.com/ailumiyana/goav-incr/goav/swscale"
-	"github.com/mike1808/h264decoder/rgb"
+	"github.com/hermanbanken/h264decoder/rgb"
 	"image"
 	"unsafe"
 )
