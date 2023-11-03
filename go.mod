@@ -1,6 +1,6 @@
-module github.com/mike1808/h264decoder
+module github.com/hermanbanken/h264decoder
 
-go 1.14
+go 1.21
 
 require (
 	github.com/ailumiyana/goav-incr v0.1.0
